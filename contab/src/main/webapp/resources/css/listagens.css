@@ -1,0 +1,12 @@
+#container {
+	width: 1000;
+	border-style: none
+}
+
+#content {
+	width: 500;
+	border-style: inset;
+	background-color: CadetBlue;
+	margin: 50px;
+	padding: 59px
+}
